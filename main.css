@@ -1,0 +1,6 @@
+img {
+  width: 100%; }
+
+.todoItems {
+  list-style-type: none;
+  color: red; }
